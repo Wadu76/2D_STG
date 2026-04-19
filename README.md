@@ -175,7 +175,7 @@ Assets/
 打开`https://github.com/Wadu76/2D_STG/releases`直接下载zip文件解压开玩。
 
 ## 视频讲解
-此处将马上更新简单的讲解视频连接。
+[简单的演示Youtube视频链接](https://youtu.be/87Fcdha8GVw)
 
 ## 📝 开发记录
 
