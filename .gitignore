@@ -1,0 +1,31 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+
+# JetBrains Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scene
+*.unity
+
+# Prefabs
+*.prefab
+
+# Art Assets
+Assets/Art/
+Assets/Sprites/
